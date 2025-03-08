@@ -2085,3 +2085,7 @@
 .fa-percent:before {
   content: "\f295";
 }
+
+    .navbar-default.navbar-shrink {
+        background-color: #7f24a6;
+    }
