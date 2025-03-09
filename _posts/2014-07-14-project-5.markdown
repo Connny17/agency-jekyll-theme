@@ -4,8 +4,8 @@ subtitle: Macho
 layout: default
 modal-id: 5
 date: Marzo 2025
-img: Imagen10.jpg
-thumbnail: Imagen9.jpg
+img: Imagen12.jpg
+thumbnail: Imagen11.jpg
 alt: image-alt
 project-date: Marzo 2025
 client: Duke
