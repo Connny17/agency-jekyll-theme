@@ -7,7 +7,7 @@ img: Imagen2.jpg
 thumbnail: Imagen1.jpg
 alt: image-alt
 project-date: Enero 2025
-cliente: Max
+client: Max
 category: Baño con limpieza de orejas
 description:  Max recibió un baño completo que dejó su pelaje limpio, suave y con un aroma fresco. También se le hizo una limpieza de orejas para garantizar su higiene. ¡Ahora luce radiante y feliz!
 ---
