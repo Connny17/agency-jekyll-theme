@@ -1,15 +1,13 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Max
+subtitle: Macho
 layout: default
 modal-id: 1
-date: 2014-07-18
 img: Imagen2.jpg
 thumbnail: Imagen1.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: hola.
-
+project-date: April 201
+client: Max
+category: Baño con limpieza de orejas
+description:  Max recibió un baño completo que dejó su pelaje limpio, suave y con un aroma fresco. También se le hizo una limpieza de orejas para garantizar su higiene. ¡Ahora luce radiante y feliz!
 ---
