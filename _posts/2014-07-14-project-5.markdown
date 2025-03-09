@@ -1,15 +1,14 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Duke
+subtitle: Macho
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: Marzo 2025
 img: Imagen10.jpg
 thumbnail: Imagen9.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: pruebaaawee.
-
+project-date: Marzo 2025
+cliente: Start Bootstrap
+category: Corte de pelo, Spa canino y Sesión fotografica
+description: Duke recibió un corte de pelo estilizado, un relajante spa canino y una sesión fotográfica para inmortalizar su nuevo look. Ahora luce impecable, fresco y más elegante que nunca. ¡Listo para robar corazones con su encanto
 ---
