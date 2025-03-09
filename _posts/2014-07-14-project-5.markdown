@@ -8,7 +8,7 @@ img: Imagen10.jpg
 thumbnail: Imagen9.jpg
 alt: image-alt
 project-date: Marzo 2025
-client: Start Bootstrap
+client: Duke
 category: Corte de pelo, Spa canino y Sesión fotografica
 description: Duke recibió un corte de pelo estilizado, un relajante spa canino y una sesión fotográfica para inmortalizar su nuevo look. Ahora luce impecable, fresco y más elegante que nunca. ¡Listo para robar corazones con su encanto
 ---
