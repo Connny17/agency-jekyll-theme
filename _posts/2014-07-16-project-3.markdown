@@ -8,7 +8,7 @@ img: Imagen6.jpg
 thumbnail: Imagen5.jpg
 alt: image-alt
 project-date: Febrero 2025
-cliente: Start Bootstrap
+client: Bruno
 category: Spa Perruno
 description: Bruno recibió un exclusivo spa perruno, con baño relajante, hidratación de su pelaje y masajes suaves. Ahora luce limpio, fresco y lleno de energía, listo para seguir robando miradas. ¡Un verdadero consentido! 
 
