@@ -4,8 +4,8 @@ subtitle: Hembra
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: Imagen12.jpg
-thumbnail: Imagen11.jpg
+img: Imagen10.jpg
+thumbnail: Imagen9.jpg
 alt: image-alt
 project-date: Marzo 2025
 client: Chloe 
