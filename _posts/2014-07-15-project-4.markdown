@@ -8,7 +8,7 @@ img: Imagen7.jpg
 thumbnail: Imagen8.jpg
 alt: image-alt
 project-date: Febrero 2025
-cliente: Start Bootstrap
+client: Kira
 category: Baño express
 description: Cloe recibió un baño express que dejó su pelaje limpio, fresco y con un aroma encantador en poco tiempo. ¡Ahora está lista para seguir disfrutando su día con mucha energía! 
 
