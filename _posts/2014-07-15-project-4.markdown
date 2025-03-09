@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Kira
+subtitle: Hembra
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: Imagen7.jpg
 thumbnail: Imagen8.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Febrero 2025
+cliente: Start Bootstrap
+category: Baño express
+description: Cloe recibió un baño express que dejó su pelaje limpio, fresco y con un aroma encantador en poco tiempo. ¡Ahora está lista para seguir disfrutando su día con mucha energía! 
 
 ---
