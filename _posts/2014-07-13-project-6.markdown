@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Chloe
+subtitle: Hembra
 layout: default
 modal-id: 6
 date: 2014-07-15
 img: Imagen12.jpg
 thumbnail: Imagen11.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: hjksksnksnsks.
+project-date: Marzo 2025
+cliente: Chloe 
+category: Spa con corte de pelo 
+description: Cloe disfrutó de un spa relajante con un corte de pelo perfecto para resaltar su belleza. Ahora luce radiante, fresca y lista para deslumbrar con su nuevo look. ¡Una verdadera estrella!
 
 ---
