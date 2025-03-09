@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: Imagen8.jpg
-thumbnail: Imagen7.jpg
+img: Imagen7.jpg
+thumbnail: Imagen8.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
